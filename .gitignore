@@ -1,0 +1,13 @@
+# Audio/Video files
+*.wav
+*.mp4
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+env/
